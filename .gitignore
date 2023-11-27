@@ -60,3 +60,6 @@ uImage
 .vscode
 .DS_Store
 tools/gdb/__pycache__
+
+/.cache
+/compile_commands.json

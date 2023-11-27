@@ -117,7 +117,7 @@ ifeq ($(CONFIG_DEBUG_SYMBOLS),y)
   ARCHOPTIMIZATION += -g
 endif
 
-CROSSDEV ?= aarch64-none-elf-
+CROSSDEV ?= aarch64-none-linux-gnu-
 
 # Default toolchain
 
